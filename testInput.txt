@@ -1,0 +1,29 @@
+A,Mass Effect 2,2010,Mature
+A,Tekken 3,1997,Teen
+A,Batman: Arkham City,2011,Teen
+A,DayZ,2013,Mature
+A,Resident Evil 4,2005,Mature
+A,Uncharted 2: Among Thieves,2009,Teen
+A,GoldenEye 007,1997,Teen
+A,Bioshock,2007,Mature
+A,Half-Life 2,2004,Mature
+A,NFL 2K1,2000,Everyone
+A,Halo: Combat Evolved,2001,Mature
+D,DayZ,2013
+A,Super Mario Odyssey,2017,Everyone 10+
+A,Grand Theft Auto,2001,Mature
+A,Duke Nukem Forever,2011,Mature
+A,Metroid Prime,2002,Teen
+A,Perfect Dark,2000,Mature
+A,Tony Hawk's Pro Skater 3,2001,Everyone
+A,The Legend of Zelda: Breath Of The Wild,2017,Everyone 10+
+A,Grand Theft Auto,2013,Mature
+A,Red Dead Redemption 2,2018,Mature
+A,Super Mario Galaxy 2,2010,Everyone
+A,Super Mario Galaxy,2007,Everyone
+A,Soulcalibur,1998,Teen
+A,Grand Theft Auto,2008,Mature
+D,Duke Nukem Forever,2011
+A,Tony Hawk's Pro Skater 2,2000,Teen
+A,The Legend of Zelda: Ocarina of Time,1998,Everyone 10+
+D,Grand Theft Auto,2001

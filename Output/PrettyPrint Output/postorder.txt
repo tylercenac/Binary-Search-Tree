@@ -1,0 +1,93 @@
+Number of games: 23
+
+Title:          Bioshock            
+Year:           2007                
+Rating:         Mature              
+
+Title:          Grand Theft Auto    
+Year:           2008                
+Rating:         Mature              
+
+Title:          Grand Theft Auto    
+Year:           2013                
+Rating:         Mature              
+
+Title:          Halo: Combat Evolved
+Year:           2001                
+Rating:         Mature              
+
+Title:          Half-Life 2         
+Year:           2004                
+Rating:         Mature              
+
+Title:          GoldenEye 007       
+Year:           1997                
+Rating:         Teen                
+
+Title:          Batman: Arkham City 
+Year:           2011                
+Rating:         Teen                
+
+Title:          Metroid Prime       
+Year:           2002                
+Rating:         Teen                
+
+Title:          Red Dead Redemption 2
+Year:           2018                
+Rating:         Mature              
+
+Title:          Perfect Dark        
+Year:           2000                
+Rating:         Mature              
+
+Title:          NFL 2K1             
+Year:           2000                
+Rating:         Everyone            
+
+Title:          Soulcalibur         
+Year:           1998                
+Rating:         Teen                
+
+Title:          Super Mario Galaxy  
+Year:           2007                
+Rating:         Everyone            
+
+Title:          Super Mario Galaxy 2
+Year:           2010                
+Rating:         Everyone            
+
+Title:          Super Mario Odyssey 
+Year:           2017                
+Rating:         Everyone 10+        
+
+Title:          Resident Evil 4     
+Year:           2005                
+Rating:         Mature              
+
+Title:          The Legend of Zelda: Ocarina of Time
+Year:           1998                
+Rating:         Everyone 10+        
+
+Title:          Tony Hawk's Pro Skater 2
+Year:           2000                
+Rating:         Teen                
+
+Title:          The Legend of Zelda: Breath Of The Wild
+Year:           2017                
+Rating:         Everyone 10+        
+
+Title:          Tony Hawk's Pro Skater 3
+Year:           2001                
+Rating:         Everyone            
+
+Title:          Uncharted 2: Among Thieves
+Year:           2009                
+Rating:         Teen                
+
+Title:          Tekken 3            
+Year:           1997                
+Rating:         Teen                
+
+Title:          Mass Effect 2       
+Year:           2010                
+Rating:         Mature              
